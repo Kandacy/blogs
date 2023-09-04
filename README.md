@@ -1,7 +1,7 @@
 ---
-title: About
-author: Tao He
-date: 2022-02-04
+title: MyBlogs
+author: song.xm
+date: 2023-09-04
 category: Jekyll
 layout: post
 ---
